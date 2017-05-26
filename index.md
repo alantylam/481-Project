@@ -2,9 +2,10 @@
 
 ## Project Title
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+Title
+Team Members (names, IDs): Tsz Yeung Lam(Alan) - 10106476, Jared, Jay.
+Tutorial Number: 03
+TA: Sydney Pratte
 
 ## Project Idea
 
