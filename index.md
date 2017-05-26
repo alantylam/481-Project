@@ -3,7 +3,7 @@
 ## Fab Lab App
 
 * Fab Lab App
-* Team Members (names, IDs): Tsz Yeung Lam(Alan) - 10106476, Jared Madden - 30008241, Jay.
+* Team Members (names, IDs): Tsz Yeung Lam(Alan) - 10106476, Jared Madden - 30008241, Jay Zhang - 10133148.
 * Tutorial Number: 03
 * TA: Sydney Pratte
 
