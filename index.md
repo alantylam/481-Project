@@ -3,7 +3,7 @@
 ## Project Title
 
 * Title
-* Team Members (names, IDs): Tsz Yeung Lam(Alan) - 10106476, Jared, Jay.
+* Team Members (names, IDs): Tsz Yeung Lam(Alan) - 10106476, Jared Madden - 30008241, Jay.
 * Tutorial Number: 03
 * TA: Sydney Pratte
 
