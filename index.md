@@ -1,8 +1,8 @@
 # CPSC 481 - Tutorial [03] - Group [03]
 
-## Project Title
+## Fab Lab App
 
-* Title
+* Fab Lab App
 * Team Members (names, IDs): Tsz Yeung Lam(Alan) - 10106476, Jared Madden - 30008241, Jay.
 * Tutorial Number: 03
 * TA: Sydney Pratte
