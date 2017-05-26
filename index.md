@@ -18,4 +18,4 @@ _[summary image -- sketch or picture]_
 ![](https://alantylam.github.io/481-Project/Photo/IMG_20170524_125235.jpg)
 ![](https://alantylam.github.io/481-Project/Photo/IMG_20170524_125349.jpg)
 
-Above are some rough sketches for ideas of the app.  The first is a series of sketches displaying our ideas for machine tracking and booking on the app, as well as a basic keyfob idea.  The second image is a rough idea of a VR space that mimics the FabLab space, affording users remote access to the machines through the VR space.
+Above are some rough sketches for ideas of the app.  The first is a series of sketches displaying our ideas for machine tracking and booking on the app, as well as a basic keyfob idea.  The second image is a rough idea of a VR space that mimics the FabLab space, affording users remote access to the machines through the VR space. Alternatively it could be a 360 live video including remote interaction.
